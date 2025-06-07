@@ -76,7 +76,7 @@ QA Engineer focado em automação de testes com Cypress e boas práticas como PO
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="175" 
     style="padding-right: 15px;" 
     src="https://github-readme-stats.vercel.app/api?username=sanluiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -84,7 +84,7 @@ QA Engineer focado em automação de testes com Cypress e boas práticas como PO
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanluiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
