@@ -4,10 +4,6 @@
 
 QA Engineer focado em automação de testes com Cypress e boas práticas como POM. Apaixonado por qualidade de software e testes E2E escaláveis. Experiência com JavaScript, Node.js e CI/CD. Sempre em busca de aprendizado e evolução constante na área de QA.
 
-  />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -77,7 +73,7 @@ QA Engineer focado em automação de testes com Cypress e boas práticas como PO
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://github-readme-stats.vercel.app/api?username=sanluiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
