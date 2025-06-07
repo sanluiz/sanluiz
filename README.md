@@ -1,8 +1,12 @@
-# 🧑🏻‍💻 Luiz Santos
+# Luiz Santos
 
 **`Analista de Testes`**
 
 QA Engineer focado em automação de testes com Cypress e boas práticas como POM. Apaixonado por qualidade de software e testes E2E escaláveis. Experiência com JavaScript, Node.js e CI/CD. Sempre em busca de aprendizado e evolução constante na área de QA.
+
+  />
+    </a>
+</p>
 
 ---
 
@@ -68,10 +72,19 @@ QA Engineer focado em automação de testes com Cypress e boas práticas como PO
 
 ### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=sanluiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanluiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
