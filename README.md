@@ -12,30 +12,32 @@ QA Engineer focado em automação de testes com Cypress e boas práticas como PO
     align="left" 
     alt="-Postman" 
     title="Postman" 
-    height="30" 
-    width="40" 
+    width="30px" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" 
 />
 <img 
     align="left" 
     alt="-Cypress" 
     title="Cypress" 
-    height="30" 
-    width="40" 
+    width="30px" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
 />
 <img 
     align="left" 
     alt="-Selenium" 
     title="Selenium"
-    height="30" width="40" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
 />
 <img 
     align="left" 
     alt="-Git" 
     title="-Git" 
-    height="30" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img 
@@ -74,7 +76,7 @@ QA Engineer focado em automação de testes com Cypress e boas práticas como PO
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="170" 
     style="padding-right: 15px;" 
     src="https://github-readme-stats.vercel.app/api?username=sanluiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -82,7 +84,7 @@ QA Engineer focado em automação de testes com Cypress e boas práticas como PO
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanluiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
