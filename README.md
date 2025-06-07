@@ -69,6 +69,8 @@ QA Engineer focado em automação de testes com Cypress e boas práticas como PO
 ### 📊 Estatísticas
 
 <p>
+<p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
